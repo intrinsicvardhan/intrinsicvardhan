@@ -1,6 +1,6 @@
 # Hey there, I am Aaditya Vardhan
 - 👀 I’m interested in Quantum Computing, Machine Learning, AI. 
-- 🌱 I’m currently learning Machine Learning Competitive Programming.
+- 🌱 I’m currently learning Machine Learning, Quantum Computing, .NET Framework.
 - 💞️ I’m looking to collaborate on ML, AI, Database projects. 
 
 
